@@ -28,7 +28,7 @@ The aim of this project was to create an online scheduler to keep track of workd
 
 ## Installation
 
-There is no installation required for this coding quiz. Simply follow this [link](https://abbeydoyle.github.io/workday-scheduler/), open in your preferred browser, and keep track of your appointments!
+There is no installation required for this coding quiz. Simply follow this [link](https://abbeydoyle.github.io/work-day-scheduler/), open in your preferred browser, and keep track of your appointments!
 
 <!-- What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running. -->
 
